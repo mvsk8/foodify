@@ -1,0 +1,8 @@
+{
+  "createTs": "2019-07-25 19:00:00.000",
+  "purchaseTs": "2019-07-25 21:00:00.000",
+  "street": "Lutzstrasse 12",
+  "postcodeId": 1,
+  "delivererId": 1,
+  "customerId": 1
+}
